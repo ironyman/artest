@@ -276,8 +276,6 @@ ModelImporter:
     resampleCurves: 1
     optimizeGameObjects: 0
     motionNodeName: 
-    rigImportErrors: 
-    rigImportWarnings: 
     animationImportErrors: 
     animationImportWarnings: 
     animationRetargetingWarnings: 
@@ -288,7 +286,147 @@ ModelImporter:
     animationScaleError: 0.5
     animationWrapMode: 0
     extraExposedTransformPaths: []
-    clipAnimations: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 360
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: black
+        weight: 1
+      - path: black/black_bishop_c
+        weight: 1
+      - path: black/black_bishop_c/black_bishop_c_MeshPart0
+        weight: 1
+      - path: black/black_bishop_c/black_bishop_c_MeshPart1
+        weight: 1
+      - path: black/black_bishop_c/black_bishop_c_MeshPart2
+        weight: 1
+      - path: black/black_bishop_c/black_bishop_c_MeshPart3
+        weight: 1
+      - path: black/black_bishop_c/black_bishop_c_MeshPart4
+        weight: 1
+      - path: black/black_bishop_f
+        weight: 1
+      - path: black/black_bishop_f/black_bishop_f_MeshPart0
+        weight: 1
+      - path: black/black_bishop_f/black_bishop_f_MeshPart1
+        weight: 1
+      - path: black/black_bishop_f/black_bishop_f_MeshPart2
+        weight: 1
+      - path: black/black_bishop_f/black_bishop_f_MeshPart3
+        weight: 1
+      - path: black/black_bishop_f/black_bishop_f_MeshPart4
+        weight: 1
+      - path: black/black_king
+        weight: 1
+      - path: black/black_knight_b
+        weight: 1
+      - path: black/black_knight_g
+        weight: 1
+      - path: black/black_pawn_a
+        weight: 1
+      - path: black/black_pawn_b
+        weight: 1
+      - path: black/black_pawn_c
+        weight: 1
+      - path: black/black_pawn_d
+        weight: 1
+      - path: black/black_pawn_e
+        weight: 1
+      - path: black/black_pawn_f
+        weight: 1
+      - path: black/black_pawn_g
+        weight: 1
+      - path: black/black_pawn_h
+        weight: 1
+      - path: black/black_queen
+        weight: 1
+      - path: black/black_rook_a
+        weight: 1
+      - path: black/black_rook_h
+        weight: 1
+      - path: checkerboard
+        weight: 1
+      - path: white
+        weight: 1
+      - path: white/white_bishop_c
+        weight: 1
+      - path: white/white_bishop_c/white_bishop_c_MeshPart0
+        weight: 1
+      - path: white/white_bishop_c/white_bishop_c_MeshPart1
+        weight: 1
+      - path: white/white_bishop_c/white_bishop_c_MeshPart2
+        weight: 1
+      - path: white/white_bishop_c/white_bishop_c_MeshPart3
+        weight: 1
+      - path: white/white_bishop_c/white_bishop_c_MeshPart4
+        weight: 1
+      - path: white/white_bishop_f
+        weight: 1
+      - path: white/white_bishop_f/white_bishop_f_MeshPart0
+        weight: 1
+      - path: white/white_bishop_f/white_bishop_f_MeshPart1
+        weight: 1
+      - path: white/white_bishop_f/white_bishop_f_MeshPart2
+        weight: 1
+      - path: white/white_bishop_f/white_bishop_f_MeshPart3
+        weight: 1
+      - path: white/white_bishop_f/white_bishop_f_MeshPart4
+        weight: 1
+      - path: white/white_king
+        weight: 1
+      - path: white/white_knight_b
+        weight: 1
+      - path: white/white_knight_g
+        weight: 1
+      - path: white/white_pawn_a
+        weight: 1
+      - path: white/white_pawn_b
+        weight: 1
+      - path: white/white_pawn_c
+        weight: 1
+      - path: white/white_pawn_d
+        weight: 1
+      - path: white/white_pawn_e
+        weight: 1
+      - path: white/white_pawn_f
+        weight: 1
+      - path: white/white_pawn_g
+        weight: 1
+      - path: white/white_pawn_h
+        weight: 1
+      - path: white/white_queen
+        weight: 1
+      - path: white/white_rook_a
+        weight: 1
+      - path: white/white_rook_h
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
     isReadable: 1
   meshes:
     lODScreenPercentages: []
