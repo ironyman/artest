@@ -8,6 +8,8 @@ TagManager:
   - Character
   - Glove
   - Target
+  - hiroObjRoot
+  - kanjiObjRoot
   layers:
   - Default
   - TransparentFX
