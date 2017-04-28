@@ -23,8 +23,6 @@ public class SphereSpawner : MonoBehaviour {
 	void Update () {
         if (hiroObjRoot.activeInHierarchy)
         {
-            
-
             if (Input.GetKeyUp(KeyCode.Space))
             {
                 InvokeRepeating("LaunchProjectile", 1.0f, 2.0f);
